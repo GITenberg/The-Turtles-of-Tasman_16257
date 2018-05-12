@@ -1,0 +1,32 @@
+_repo: The-Turtles-of-Tasman_16257
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16257-h/images/cover.jpg
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2005-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: By the turtles of Tasman -- The eternity of forms -- Told in the
+  drooling ward -- The hobo and the fairy -- The prodigal father -- The first poet
+  -- Finis -- The end of the story.
+title: The Turtles of Tasman
+url: http://www.gutenberg.org/ebooks/16257
